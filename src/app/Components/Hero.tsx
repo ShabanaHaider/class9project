@@ -12,7 +12,7 @@ export default function Home() {
           
           
           <p className="lg:text-2xl md:text-1xl text-center text-gray-700 mt-2">
-          <b>Premium Sheepskin Leather:</b> This Men's Jacket Is Constructed From 100% Genuine Sheepskin Leather, 
+          <b>Premium Sheepskin Leather:</b> This Men Jacket Is Constructed From 100% Genuine Sheepskin Leather, 
           Offering Top-Tier Durability And A Premium Feel.</p>
           
           <p className="lg:text-2xl md:text-1xl text-center  text-gray-700 mt-2">
